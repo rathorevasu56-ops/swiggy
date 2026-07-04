@@ -1,0 +1,7 @@
+# Query: http://localhost:5000
+
+2 results - 1 file
+
+README.md:
+  62: 🚀 API server running on https://biterush-1-cnx3.onrender.com
+  69: const API_BASE_URL = "https://biterush-1-cnx3.onrender.com/api";
